@@ -1,6 +1,10 @@
 # EscuadraShawnFGExam
 <img width="1920" height="103" alt="image" src="https://github.com/user-attachments/assets/d0535bd6-7def-4f25-864b-10ca954e28cf" />
 
+
+<img width="660" height="688" alt="image" src="https://github.com/user-attachments/assets/3ccb8490-b699-4442-8749-1744a19033b8" />
+
+
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 21.1.4.
 
 ## Development server
